@@ -1,5 +1,6 @@
 body {
   font-family: "Ubuntu", sans-serif;
+  background-color: #e3d8ff;
 }
 .weather-app {
   background-color: white;
@@ -38,7 +39,7 @@ header {
   justify-content: space-between;
 }
 .city {
-  font-size: 38px;
+  font-size: 42px;
   line-height: 48px;
 }
 .weather-details {
